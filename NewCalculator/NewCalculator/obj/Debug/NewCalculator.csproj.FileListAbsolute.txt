@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe.config
+C:\Users\Student\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe
+C:\Users\Student\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.pdb
+C:\Users\Student\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Form1.resources
+C:\Users\Student\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Properties.Resources.resources
+C:\Users\Student\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
+C:\Users\Student\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
+G:\C#\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csprojAssemblyReference.cache
+G:\C#\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Form1.resources
+G:\C#\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Properties.Resources.resources
+G:\C#\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.GenerateResource.cache
+G:\C#\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.CoreCompileInputs.cache
+G:\C#\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
+G:\C#\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
